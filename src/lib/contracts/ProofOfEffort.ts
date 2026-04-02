@@ -209,7 +209,7 @@ class ProofOfEffort {
 
   // === HELPERS ===
 
-  private _parseMapToObj(data: any): Record<string, any> {
+  private _parseMapToObj(data: any): any {
     if (data instanceof Map) {
       const obj: Record<string, any> = {};
       data.forEach((value: any, key: any) => {
