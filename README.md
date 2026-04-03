@@ -1,11 +1,4 @@
-i want you to build this genlayer project for me Proof of Effort
 
-
-clone this genlayer boilerplate template https://github.com/genlayerlabs/genlayer-project-boilerplate.git to the folder.
-understand the structure and how a genlayer project works
-we will be creating the project on top of this boilerplate
-
-i want to create this dapp to
 
 Outcome-based pay often disadvantages workers when outcomes fail for reasons outside their control. Proof of Effort separates quality of work from success of outcome. The AI evaluates the worker's process — did they follow best practices, make good decisions, document their work? A surgeon who did everything right but lost the patient still gets a high Effort score. Rewards professional quality independent of luck.
 
